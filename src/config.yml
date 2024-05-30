@@ -1,0 +1,7 @@
+IP: a.try-hg.com
+MySQL: true
+MySQL_IP: localhost
+MySQL_Porta: 3306
+MySQL_Database: WixedHG
+MySQL_User: root
+MySQL_Password: tryzaolindo
